@@ -1,2 +1,2 @@
 # first-commit
-This is my firs Git Repository
+This is my first Git Repository
